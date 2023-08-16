@@ -6,7 +6,7 @@ Star⭐ the repo if you like what you see😉.
 
 ## Screenshots
 
-![App Screenshots](https://github.com/vaibhavkusalkar/social_media/blob/016fba530e8a420ca9181de795c3a1a9b4d3b4e4/Mockups/Screen1.png)
+![App Screenshots](https://github.com/vaibhavkusalkar/furniture_store/blob/85ae564a780c9e0c3cc7a6bb61c83f7869f47a31/Mockups/Image%201.png)
 
 ## Functionality
 * Home Screen
