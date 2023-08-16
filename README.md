@@ -1,16 +1,51 @@
-# furniture_store
+# Furniture Store App
+A Modern Furniture Store App UI with Animations.
 
-A Modern Furniture Store App UI
+Star⭐ the repo if you like what you see😉.
+### Built using Flutter 💙
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![App Screenshots](https://github.com/vaibhavkusalkar/social_media/blob/016fba530e8a420ca9181de795c3a1a9b4d3b4e4/Mockups/Screen1.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Functionality
+* Home Screen
+* Animation (Drag product to cart)
+* Cart Page
+* Change Color of Product
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Requirements
+
+* Any Operating System (ie. MacOS X, Linux, Windows)
+* Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+* A little knowledge of Dart and Flutter
+
+## Project Installation
+Follow the steps properly -
+
+- Flutter SDK Must be installed properly.
+
+- Clone Repository
+```bash
+  gh repo clone vaibhavkusalkar/furniture_store
+```
+
+- Get into the Project folder (i.e furniture_store)
+```bash
+  cd furniture_store
+```
+
+- Run
+```bash
+  flutter clean
+```
+```bash
+  flutter pub get
+```
+
+The App is ready to use !
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
